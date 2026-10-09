@@ -1,0 +1,9 @@
+# Práctica 02: Repositorio Remoto y Colaboración Controlada
+
+**Estudiante:** Edwin Misael Blanco Gomez  
+**Institución:** Instituto Tecnológico de Saltillo  
+
+## Objetivo
+Publicar un repositorio Git local en GitHub, comprobar la sincronización remota, crear una branch para trabajo colaborativo y abrir una Pull Request sin perder la identidad académica local.
+
+Este repositorio se utilizará para practicar GitHub y colaboración.
